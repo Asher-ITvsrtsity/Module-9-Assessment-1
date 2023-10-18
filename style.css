@@ -36,13 +36,13 @@ p{
     height: 5rem;
     font-size: 1rem;
     font-weight: 600;
-    transition: transform 0.3s, background-color 0.3s; /* Add transition properties */
+    transition: transform 0.3s, background-color 0.3s;
   }
   
-/* Hover effect for the buttons */
+
 .roundButton:hover {
-    transform: scale(1.05); /* Slight zoom on hover */
-    background-color: rgb(250, 112, 112); /* Dim effect on hover */
+    transform: scale(1.05);
+    background-color: rgb(250, 112, 112); 
 }
 
 .button1{
@@ -72,6 +72,6 @@ p{
 }
 
 .selector:hover {
-    transform: scale(1.05); /* Slight zoom on hover */
-    background-color: rgb(250, 112, 112); /* Dim effect on hover */
+    transform: scale(1.05); 
+    background-color: rgb(250, 112, 112); 
 }
